@@ -1,0 +1,11 @@
+discord
+aiohttp
+asyncio
+datetime
+
+Open CMD without administrator, and run these commands.
+
+pip install discord
+pip install aiohttp
+pip install asyncio
+pip install datetime
